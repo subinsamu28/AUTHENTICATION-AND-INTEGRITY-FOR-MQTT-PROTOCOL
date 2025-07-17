@@ -122,12 +122,6 @@ python3 app.py
 
 ---
 
-## 📷 Screenshots *(Optional)*
-
-_Add screenshots of your dashboard or terminal output here._
-
----
-
 ## 📃 License & Rights
 
 © 2025 **Subin Samu**. All rights reserved.  
